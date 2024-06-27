@@ -7,11 +7,18 @@ As this application contains flow information (i.e contribution, distribution et
 in planning future course of action.
 
 Roles and Responsibilities:
-•	Engaged with multiple stakeholders to identify and document key business requirements for this new analytics dashboard, thereby ensuring the solution provided meaningful insights and met user expectations
+
+
+• Engaged with multiple stakeholders to identify and document key business requirements for this new analytics dashboard, thereby ensuring the solution provided meaningful insights and met user expectations
+
 •	Worked closely and extensively with the business and finance teams in classifying the raw data into meaningful segments
+
 •	Implemented a complex ETL process to consume data from multiple mainframe teams and to generate summarized data including applying predictive analysis in deriving certain metrics
+
 •	Executed performance tuning measures to ensure quick response times for resource intensive metric data sets
+
 •	Developed several TPT mappings and established Fastload based data loads to consume data from several new source systems 
+
 •	Prepared comprehensive documentation for this new dashboard, ensuring ease of use of application by end users and in maintenance of this application by the development team
 
-Technology Stack: HTML, Javascript, jQuery, CSS, Bootstrap components, High charts, WebFocus,     Teradata and Oracle Databases.
+Technology Stack: HTML, Javascript, jQuery, CSS, Bootstrap components, High charts, WebFocus, Teradata and Oracle Databases.
