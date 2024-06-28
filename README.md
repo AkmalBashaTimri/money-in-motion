@@ -1,5 +1,4 @@
 # money-in-motion
-A tool to help clients understand the money flow trend at various hierarchies 
 Money in Motion is a tool to help clients understand the money flow trend at various hierarchies 
 (i.e Account, IP, Office, IBD etc). This tool classifies activities into different transaction, movement types and helps aggregate data as required. 
 This tool is used extensively by both clients and pershing in reporting quarterly earnings data.
